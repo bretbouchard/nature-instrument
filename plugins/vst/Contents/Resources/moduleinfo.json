@@ -1,0 +1,58 @@
+{
+  "Name": "nature",
+  "Version": "1.0.0",
+  "Factory Info": {
+    "Vendor": "SchillingerEcosystem",
+    "URL": "",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "5653544573756573616D5F73616D706C",
+      "Category": "Audio Module Class",
+      "Name": "nature",
+      "Vendor": "SchillingerEcosystem",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Fx",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "5653454573756573616D5F73616D706C",
+      "Category": "Component Controller Class",
+      "Name": "nature",
+      "Vendor": "SchillingerEcosystem",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Fx",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF01C0DEF00D4D616E7545737565",
+      "Category": "Plugin Compatibility Class",
+      "Name": "nature",
+      "Vendor": "SchillingerEcosystem",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
