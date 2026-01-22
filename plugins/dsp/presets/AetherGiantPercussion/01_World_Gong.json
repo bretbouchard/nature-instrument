@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "World Gong (Titan)",
+  "author": "Nature Marco Design Team",
+  "description": "Very long decay with complex metallic swirl and cinematic bloom",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:38.288231",
+  "categories": [
+    "Giant Percussion"
+  ],
+  "tags": [
+    "gong",
+    "metal",
+    "long",
+    "cinematic",
+    "swirl"
+  ],
+  "parameters": {
+    "master_volume": 0.9,
+    "scale_meters": 3.0,
+    "instrument_type": 0.0,
+    "force": 0.8
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantPercussion/01_World_Gong.json",
+    "conversionDate": "2026-01-21T18:46:38.288223",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

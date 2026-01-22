@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Titan Tom Array",
+  "author": "Nature Marco Design Team",
+  "description": "Tuned set of giant toms with cinematic presence",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:40.008805",
+  "categories": [
+    "Giant Drums"
+  ],
+  "tags": [
+    "tom",
+    "tuned",
+    "cinematic",
+    "tribal",
+    "ensemble"
+  ],
+  "parameters": {
+    "master_volume": 0.85,
+    "membrane_tension": 0.6,
+    "membrane_diameter": 1.8,
+    "membrane_damping": 0.996,
+    "membrane_inharmonicity": 0.12,
+    "membrane_num_modes": 4,
+    "shell_cavity_freq": 150.0,
+    "shell_formant": 280.0,
+    "shell_coupling": 0.35,
+    "saturation_amount": 0.12,
+    "mass_effect": 0.5,
+    "room_size": 0.65,
+    "reflection_gain": 0.3,
+    "reverb_time": 2.2
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantDrums/02_Titan_Tom_Array.json",
+    "conversionDate": "2026-01-21T18:46:40.008800",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

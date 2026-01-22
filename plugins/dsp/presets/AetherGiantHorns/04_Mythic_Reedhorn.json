@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Mythic Reedhorn",
+  "author": "Nature Marco Design Team",
+  "description": "Edgy with growl capability and aggressive character",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:32.847779",
+  "categories": [
+    "Giant Horns"
+  ],
+  "tags": [
+    "reed",
+    "edgy",
+    "growl",
+    "aggressive",
+    "mythic"
+  ],
+  "parameters": {
+    "master_volume": 0.85,
+    "scale_meters": 4.0,
+    "force": 0.8,
+    "bore_length": 4.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantHorns/04_Mythic_Reedhorn.json",
+    "conversionDate": "2026-01-21T18:46:32.847773",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Titan Tuba Lead",
+  "author": "Nature Marco Design Team",
+  "description": "Surprisingly melodic with warm character",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:32.475963",
+  "categories": [
+    "Giant Horns"
+  ],
+  "tags": [
+    "tuba",
+    "melodic",
+    "warm",
+    "lead",
+    "surprising"
+  ],
+  "parameters": {
+    "master_volume": 0.82,
+    "scale_meters": 6.0,
+    "force": 0.6,
+    "bore_length": 6.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantHorns/02_Titan_Tuba_Lead.json",
+    "conversionDate": "2026-01-21T18:46:32.475956",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Colossus Roar",
+  "author": "Nature Marco Design Team",
+  "description": "Unstable giant roar with heavy subharmonics and wide formants",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:33.783211",
+  "categories": [
+    "Giant Voice"
+  ],
+  "tags": [
+    "roar",
+    "aggressive",
+    "cinematic",
+    "monster",
+    "subharmonic"
+  ],
+  "parameters": {
+    "master_volume": 0.85,
+    "scale_meters": 12.0,
+    "force": 0.8,
+    "aggression": 0.9,
+    "openness": 0.6,
+    "roughness": 0.6
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantVoice/01_Colossus_Roar.json",
+    "conversionDate": "2026-01-21T18:46:33.783206",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Thunder Frame Drum",
+  "author": "Nature Marco Design Team",
+  "description": "Wide transient with slow fundamental and rumble",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:39.427328",
+  "categories": [
+    "Giant Drums"
+  ],
+  "tags": [
+    "frame",
+    "wide",
+    "rumble",
+    "thunder",
+    "slow"
+  ],
+  "parameters": {
+    "master_volume": 0.9,
+    "membrane_tension": 0.4,
+    "membrane_diameter": 2.2,
+    "membrane_damping": 0.997,
+    "membrane_inharmonicity": 0.08,
+    "membrane_num_modes": 3,
+    "shell_cavity_freq": 80.0,
+    "shell_formant": 120.0,
+    "shell_coupling": 0.25,
+    "saturation_amount": 0.1,
+    "mass_effect": 0.7,
+    "room_size": 0.8,
+    "reflection_gain": 0.4,
+    "reverb_time": 3.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantDrums/04_Thunder_Frame_Drum.json",
+    "conversionDate": "2026-01-21T18:46:39.427322",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

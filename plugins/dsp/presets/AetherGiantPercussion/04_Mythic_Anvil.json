@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Mythic Anvil",
+  "author": "Nature Marco Design Team",
+  "description": "Shorter decay with brutal transient and huge impact",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:38.853115",
+  "categories": [
+    "Giant Percussion"
+  ],
+  "tags": [
+    "anvil",
+    "brutal",
+    "short",
+    "impact",
+    "metal"
+  ],
+  "parameters": {
+    "master_volume": 0.9,
+    "scale_meters": 1.8,
+    "instrument_type": 2.0,
+    "force": 1.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantPercussion/04_Mythic_Anvil.json",
+    "conversionDate": "2026-01-21T18:46:38.853107",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

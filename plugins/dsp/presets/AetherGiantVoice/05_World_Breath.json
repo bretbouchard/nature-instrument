@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "World Breath",
+  "author": "Nature Marco Design Team",
+  "description": "No pitch, just massive filtered noise for tension beds",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:33.404773",
+  "categories": [
+    "Giant Voice"
+  ],
+  "tags": [
+    "breath",
+    "noise",
+    "tension",
+    "atmosphere",
+    "textural"
+  ],
+  "parameters": {
+    "master_volume": 0.75,
+    "scale_meters": 20.0,
+    "force": 0.6,
+    "aggression": 0.1,
+    "openness": 0.7,
+    "roughness": 0.8
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantVoice/05_World_Breath.json",
+    "conversionDate": "2026-01-21T18:46:33.404762",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Cathedral Snare",
+  "author": "Nature Marco Design Team",
+  "description": "Giant shell with long tail and controlled buzz",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:39.615093",
+  "categories": [
+    "Giant Drums"
+  ],
+  "tags": [
+    "snare",
+    "giant",
+    "cathedral",
+    "long",
+    "resonant"
+  ],
+  "parameters": {
+    "master_volume": 0.8,
+    "membrane_tension": 0.7,
+    "membrane_diameter": 1.5,
+    "membrane_damping": 0.994,
+    "membrane_inharmonicity": 0.2,
+    "membrane_num_modes": 5,
+    "shell_cavity_freq": 200.0,
+    "shell_formant": 400.0,
+    "shell_coupling": 0.4,
+    "saturation_amount": 0.15,
+    "mass_effect": 0.4,
+    "room_size": 0.75,
+    "reflection_gain": 0.35,
+    "reverb_time": 3.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantDrums/03_Cathedral_Snare.json",
+    "conversionDate": "2026-01-21T18:46:39.615087",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Beast Bark",
+  "author": "Nature Marco Design Team",
+  "description": "Short envelope with sharp transient for rhythmic punctuation",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:33.595127",
+  "categories": [
+    "Giant Voice"
+  ],
+  "tags": [
+    "bark",
+    "short",
+    "percussive",
+    "punctuation",
+    "rhythmic"
+  ],
+  "parameters": {
+    "master_volume": 0.85,
+    "scale_meters": 6.0,
+    "force": 0.9,
+    "aggression": 0.8,
+    "openness": 0.3,
+    "roughness": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantVoice/04_Beast_Bark.json",
+    "conversionDate": "2026-01-21T18:46:33.595122",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Warm Resonant Pad",
+  "author": "Nature Marco Design Team",
+  "description": "Classic warm pad with rich resonance and slow attack. Perfect harmonic foundation for any track.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:37.353004",
+  "categories": [
+    "Pad"
+  ],
+  "tags": [
+    "pad",
+    "warm",
+    "resonant",
+    "classic",
+    "harmonic"
+  ],
+  "parameters": {
+    "exciter_noise_color": 0.5,
+    "exciter_gain": 0.6,
+    "exciter_attack": 0.4,
+    "exciter_decay": 0.6,
+    "exciter_sustain": 0.85,
+    "exciter_release": 2.5,
+    "resonator_mode_count": 16,
+    "resonator_brightness": 0.4,
+    "resonator_decay": 0.75,
+    "feedback_amount": 0.5,
+    "feedback_delay_time": 0.025,
+    "feedback_saturation": 1.4,
+    "feedback_mix": 0.45,
+    "filter_cutoff": 0.55,
+    "filter_resonance": 0.45,
+    "amp_attack": 1.0,
+    "amp_decay": 0.5,
+    "amp_sustain": 0.9,
+    "amp_release": 2.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/Aether/20_Warm_Resonant_Pad.json",
+    "conversionDate": "2026-01-21T18:46:37.352999",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

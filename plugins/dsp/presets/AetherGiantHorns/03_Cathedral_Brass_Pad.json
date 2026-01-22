@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Cathedral Brass Pad",
+  "author": "Nature Marco Design Team",
+  "description": "Formant-smoothed with wide cinematic presence",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:32.663695",
+  "categories": [
+    "Giant Horns"
+  ],
+  "tags": [
+    "pad",
+    "brass",
+    "wide",
+    "cathedral",
+    "smooth"
+  ],
+  "parameters": {
+    "master_volume": 0.8,
+    "scale_meters": 10.0,
+    "force": 0.5,
+    "bore_length": 10.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantHorns/03_Cathedral_Brass_Pad.json",
+    "conversionDate": "2026-01-21T18:46:32.663691",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

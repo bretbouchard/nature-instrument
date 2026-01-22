@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "aether_giant_instrument_ir",
+  "author": "Unknown",
+  "description": "Complete set of giant-scale physical modeling instruments for cinematic sound design",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:39.039293",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {},
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/aether_giant_instrument_ir.json",
+    "conversionDate": "2026-01-21T18:46:39.039288",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0"
+  }
+}

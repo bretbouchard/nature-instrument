@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Ancient Chant",
+  "author": "Nature Marco Design Team",
+  "description": "Slow pitch with drifting formants for ritual atmosphere",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:33.970012",
+  "categories": [
+    "Giant Voice"
+  ],
+  "tags": [
+    "chant",
+    "ritual",
+    "slow",
+    "drift",
+    "atmospheric"
+  ],
+  "parameters": {
+    "master_volume": 0.8,
+    "scale_meters": 15.0,
+    "force": 0.5,
+    "aggression": 0.2,
+    "openness": 0.5,
+    "roughness": 0.2
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantVoice/03_Ancient_Chant.json",
+    "conversionDate": "2026-01-21T18:46:33.970007",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

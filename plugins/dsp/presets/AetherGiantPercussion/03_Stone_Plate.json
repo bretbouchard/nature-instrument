@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Stone Plate",
+  "author": "Nature Marco Design Team",
+  "description": "Wide and ominous with complex Chladni patterns",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:38.664539",
+  "categories": [
+    "Giant Percussion"
+  ],
+  "tags": [
+    "plate",
+    "stone",
+    "ominous",
+    "wide",
+    "complex"
+  ],
+  "parameters": {
+    "master_volume": 0.8,
+    "scale_meters": 3.5,
+    "instrument_type": 2.0,
+    "force": 0.8
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantPercussion/03_Stone_Plate.json",
+    "conversionDate": "2026-01-21T18:46:38.664534",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

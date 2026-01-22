@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Mythic Taiko",
+  "author": "Nature Marco Design Team",
+  "description": "Huge strike with air push and ceremonial weight",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:39.801458",
+  "categories": [
+    "Giant Drums"
+  ],
+  "tags": [
+    "taiko",
+    "japanese",
+    "ceremonial",
+    "massive",
+    "air"
+  ],
+  "parameters": {
+    "master_volume": 0.95,
+    "membrane_tension": 0.5,
+    "membrane_diameter": 3.0,
+    "membrane_damping": 0.998,
+    "membrane_inharmonicity": 0.1,
+    "membrane_num_modes": 4,
+    "shell_cavity_freq": 60.0,
+    "shell_formant": 100.0,
+    "shell_coupling": 0.3,
+    "saturation_amount": 0.12,
+    "mass_effect": 0.8,
+    "room_size": 0.9,
+    "reflection_gain": 0.5,
+    "reverb_time": 4.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantDrums/05_Mythic_Taiko.json",
+    "conversionDate": "2026-01-21T18:46:39.801451",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

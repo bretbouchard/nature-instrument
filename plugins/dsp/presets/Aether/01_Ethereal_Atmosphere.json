@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Ethereal Atmosphere",
+  "author": "Nature Marco Design Team",
+  "description": "Lush, evolving ambient texture with metallic overtones. Perfect for atmospheric pads and soundscapes.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:36.796678",
+  "categories": [
+    "Ambient"
+  ],
+  "tags": [
+    "ethereal",
+    "metallic",
+    "evolving",
+    "lush",
+    "atmospheric"
+  ],
+  "parameters": {
+    "exciter_noise_color": 0.3,
+    "exciter_gain": 0.7,
+    "exciter_attack": 0.1,
+    "exciter_decay": 0.8,
+    "exciter_sustain": 0.6,
+    "exciter_release": 1.5,
+    "resonator_mode_count": 32,
+    "resonator_brightness": 0.5,
+    "resonator_decay": 0.7,
+    "feedback_amount": 0.6,
+    "feedback_delay_time": 0.01,
+    "feedback_saturation": 1.5,
+    "feedback_mix": 0.4,
+    "filter_cutoff": 0.6,
+    "filter_resonance": 0.3,
+    "amp_attack": 0.5,
+    "amp_decay": 0.3,
+    "amp_sustain": 0.8,
+    "amp_release": 2.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/Aether/01_Ethereal_Atmosphere.json",
+    "conversionDate": "2026-01-21T18:46:36.796673",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "FX Mandolin",
+  "author": "Nature Marco Design Team",
+  "description": "Mandolin-like tremolo",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:42.285453",
+  "categories": [
+    "Special Effects"
+  ],
+  "tags": [
+    "mandolin",
+    "tremolo",
+    "folk",
+    "effect",
+    "special"
+  ],
+  "parameters": {
+    "string_frequency": 0.5,
+    "string_damping": 0.996,
+    "string_stiffness": 0.1,
+    "string_brightness": 0.8,
+    "bridge_coupling": 0.5,
+    "bridge_nonlinearity": 0.12,
+    "body_brightness": 0.7,
+    "body_resonance": 0.6,
+    "pedalboard_enable_0": false,
+    "pedalboard_enable_1": false,
+    "pedalboard_enable_2": false,
+    "pedalboard_enable_3": false,
+    "pedalboard_enable_4": false,
+    "pedalboard_enable_5": false,
+    "pedalboard_type_5": 5,
+    "pedalboard_param1_5": 0.4,
+    "pedalboard_param2_5": 0.5,
+    "pedalboard_enable_6": true,
+    "pedalboard_type_6": 6,
+    "pedalboard_param1_6": 0.3,
+    "pedalboard_param2_6": 0.3,
+    "pedalboard_enable_7": false
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/String/37_FX_Mandolin.json",
+    "conversionDate": "2026-01-21T18:46:42.285447",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

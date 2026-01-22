@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Crystal Bell",
+  "author": "Nature Marco Design Team",
+  "description": "High-frequency bell with long decay and bright harmonics. Crystalline, percussive bell sounds.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:37.166078",
+  "categories": [
+    "Bell"
+  ],
+  "tags": [
+    "bell",
+    "crystalline",
+    "bright",
+    "percussive",
+    "long-decay"
+  ],
+  "parameters": {
+    "exciter_noise_color": 0.0,
+    "exciter_gain": 0.9,
+    "exciter_attack": 0.001,
+    "exciter_decay": 0.2,
+    "exciter_sustain": 0.0,
+    "exciter_release": 3.5,
+    "resonator_mode_count": 32,
+    "resonator_brightness": 0.95,
+    "resonator_decay": 0.85,
+    "feedback_amount": 0.2,
+    "feedback_delay_time": 0.002,
+    "feedback_saturation": 1.0,
+    "feedback_mix": 0.2,
+    "filter_cutoff": 0.9,
+    "filter_resonance": 0.3,
+    "amp_attack": 0.001,
+    "amp_decay": 0.3,
+    "amp_sustain": 0.0,
+    "amp_release": 3.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/Aether/18_Crystal_Bell.json",
+    "conversionDate": "2026-01-21T18:46:37.166074",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

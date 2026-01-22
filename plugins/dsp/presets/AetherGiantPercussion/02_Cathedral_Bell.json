@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Cathedral Bell",
+  "author": "Nature Marco Design Team",
+  "description": "Clear strike with endless harmonic bloom",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:38.097450",
+  "categories": [
+    "Giant Percussion"
+  ],
+  "tags": [
+    "bell",
+    "clear",
+    "long",
+    "harmonic",
+    "bloom"
+  ],
+  "parameters": {
+    "master_volume": 0.85,
+    "scale_meters": 2.5,
+    "instrument_type": 1.0,
+    "force": 0.7
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantPercussion/02_Cathedral_Bell.json",
+    "conversionDate": "2026-01-21T18:46:38.097444",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

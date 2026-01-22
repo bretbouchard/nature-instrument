@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Fog Chimes",
+  "author": "Nature Marco Design Team",
+  "description": "Randomized micro-strikes with ethereal shimmer",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:38.474843",
+  "categories": [
+    "Giant Percussion"
+  ],
+  "tags": [
+    "chimes",
+    "shimmer",
+    "ethereal",
+    "random",
+    "fog"
+  ],
+  "parameters": {
+    "master_volume": 0.75,
+    "scale_meters": 1.5,
+    "instrument_type": 3.0,
+    "force": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantPercussion/05_Fog_Chimes.json",
+    "conversionDate": "2026-01-21T18:46:38.474837",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

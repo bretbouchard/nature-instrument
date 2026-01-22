@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Crystal Cavern",
+  "author": "Nature Marco Design Team",
+  "description": "Expansive, reverberant atmosphere with high-frequency emphasis. Simulates large crystalline spaces.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:36.981190",
+  "categories": [
+    "Ambient"
+  ],
+  "tags": [
+    "expansive",
+    "reverberant",
+    "crystalline",
+    "bright",
+    "atmospheric"
+  ],
+  "parameters": {
+    "exciter_noise_color": 0.2,
+    "exciter_gain": 0.75,
+    "exciter_attack": 0.05,
+    "exciter_decay": 0.9,
+    "exciter_sustain": 0.4,
+    "exciter_release": 1.8,
+    "resonator_mode_count": 32,
+    "resonator_brightness": 0.85,
+    "resonator_decay": 0.75,
+    "feedback_amount": 0.8,
+    "feedback_delay_time": 0.05,
+    "feedback_saturation": 3.0,
+    "feedback_mix": 0.6,
+    "filter_cutoff": 0.7,
+    "filter_resonance": 0.6,
+    "amp_attack": 0.1,
+    "amp_decay": 0.8,
+    "amp_sustain": 0.5,
+    "amp_release": 2.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/Aether/05_Crystal_Cavern.json",
+    "conversionDate": "2026-01-21T18:46:36.981184",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Colossus Kick",
+  "author": "Nature Marco Design Team",
+  "description": "Sub-heavy giant kick with slow bloom and massive low end",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:39.223141",
+  "categories": [
+    "Giant Drums"
+  ],
+  "tags": [
+    "kick",
+    "sub",
+    "bass",
+    "giant",
+    "cinematic"
+  ],
+  "parameters": {
+    "master_volume": 0.9,
+    "membrane_tension": 0.4,
+    "membrane_diameter": 2.5,
+    "membrane_damping": 0.997,
+    "membrane_inharmonicity": 0.15,
+    "membrane_num_modes": 4,
+    "shell_cavity_freq": 80.0,
+    "shell_formant": 150.0,
+    "shell_coupling": 0.4,
+    "saturation_amount": 0.15,
+    "mass_effect": 0.6,
+    "room_size": 0.6,
+    "reflection_gain": 0.25,
+    "reverb_time": 2.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantDrums/01_Colossus_Kick.json",
+    "conversionDate": "2026-01-21T18:46:39.223136",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

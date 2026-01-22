@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Tension Builder",
+  "author": "Nature Marco Design Team",
+  "description": "High-tension dissonant texture for dramatic suspense scenes. Maximum feedback creates intensity.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:35.260073",
+  "categories": [
+    "Cinematic"
+  ],
+  "tags": [
+    "tension",
+    "dissonant",
+    "dramatic",
+    "suspense",
+    "intense"
+  ],
+  "parameters": {
+    "exciter_noise_color": 0.0,
+    "exciter_gain": 0.9,
+    "exciter_attack": 0.05,
+    "exciter_decay": 0.3,
+    "exciter_sustain": 0.7,
+    "exciter_release": 0.8,
+    "resonator_mode_count": 32,
+    "resonator_brightness": 0.6,
+    "resonator_decay": 0.5,
+    "feedback_amount": 0.9,
+    "feedback_delay_time": 0.1,
+    "feedback_saturation": 2.5,
+    "feedback_mix": 0.7,
+    "filter_cutoff": 0.65,
+    "filter_resonance": 0.7,
+    "amp_attack": 0.2,
+    "amp_decay": 0.3,
+    "amp_sustain": 0.8,
+    "amp_release": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/Aether/06_Tension_Builder.json",
+    "conversionDate": "2026-01-21T18:46:35.260068",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

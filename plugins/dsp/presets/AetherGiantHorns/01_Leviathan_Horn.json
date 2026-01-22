@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Leviathan Horn",
+  "author": "Nature Marco Design Team",
+  "description": "Slow attack, massive fundamental with cinematic weight",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:33.218987",
+  "categories": [
+    "Giant Horns"
+  ],
+  "tags": [
+    "horn",
+    "brass",
+    "slow",
+    "cinematic",
+    "massive"
+  ],
+  "parameters": {
+    "master_volume": 0.85,
+    "scale_meters": 8.0,
+    "force": 0.7,
+    "bore_length": 8.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/AetherGiantHorns/01_Leviathan_Horn.json",
+    "conversionDate": "2026-01-21T18:46:33.218982",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Exp Alien",
+  "author": "Nature Marco Design Team",
+  "description": "Alien texture",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:45.298374",
+  "categories": [
+    "Experimental"
+  ],
+  "tags": [
+    "alien",
+    "sci-fi",
+    "unusual",
+    "experimental",
+    "weird"
+  ],
+  "parameters": {
+    "string_frequency": 0.5,
+    "string_damping": 0.99,
+    "string_stiffness": 0.4,
+    "string_brightness": 0.7,
+    "bridge_coupling": 0.3,
+    "bridge_nonlinearity": 0.4,
+    "body_brightness": 0.6,
+    "body_resonance": 0.5,
+    "pedalboard_enable_0": false,
+    "pedalboard_enable_1": false,
+    "pedalboard_type_1": 1,
+    "pedalboard_param1_1": 0.7,
+    "pedalboard_param2_1": 0.5,
+    "pedalboard_enable_2": false,
+    "pedalboard_type_2": 3,
+    "pedalboard_param1_2": 0.8,
+    "pedalboard_param2_2": 0.6,
+    "pedalboard_enable_3": false,
+    "pedalboard_enable_4": false,
+    "pedalboard_type_4": 4,
+    "pedalboard_param1_4": 0.7,
+    "pedalboard_param2_4": 0.5,
+    "pedalboard_enable_5": true,
+    "pedalboard_type_5": 5,
+    "pedalboard_param1_5": 0.7,
+    "pedalboard_param2_5": 0.8,
+    "pedalboard_enable_6": false,
+    "pedalboard_enable_7": false
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/String/40_Exp_Alien.json",
+    "conversionDate": "2026-01-21T18:46:45.298369",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

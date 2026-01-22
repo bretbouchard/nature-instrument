@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Emotional Swell",
+  "author": "Nature Marco Design Team",
+  "description": "Warm, emotional pad with very slow evolution. Perfect for romantic and touching scenes.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:35.077370",
+  "categories": [
+    "Cinematic"
+  ],
+  "tags": [
+    "emotional",
+    "warm",
+    "swell",
+    "romantic",
+    "touching"
+  ],
+  "parameters": {
+    "exciter_noise_color": 0.3,
+    "exciter_gain": 0.55,
+    "exciter_attack": 0.8,
+    "exciter_decay": 0.7,
+    "exciter_sustain": 0.75,
+    "exciter_release": 3.0,
+    "resonator_mode_count": 24,
+    "resonator_brightness": 0.45,
+    "resonator_decay": 0.75,
+    "feedback_amount": 0.5,
+    "feedback_delay_time": 0.02,
+    "feedback_saturation": 1.3,
+    "feedback_mix": 0.45,
+    "filter_cutoff": 0.55,
+    "filter_resonance": 0.5,
+    "amp_attack": 2.0,
+    "amp_decay": 0.6,
+    "amp_sustain": 0.85,
+    "amp_release": 3.0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/Aether/10_Emotion_Swell.json",
+    "conversionDate": "2026-01-21T18:46:35.077365",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

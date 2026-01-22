@@ -1,0 +1,52 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Bass Dub",
+  "author": "Nature Marco Design Team",
+  "description": "Dub deep bass",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:46:43.039308",
+  "categories": [
+    "Bass Guitar"
+  ],
+  "tags": [
+    "dub",
+    "deep",
+    "sub",
+    "bass"
+  ],
+  "parameters": {
+    "string_frequency": 0.2,
+    "string_damping": 0.999,
+    "string_stiffness": 0.15,
+    "string_brightness": 0.15,
+    "bridge_coupling": 0.5,
+    "bridge_nonlinearity": 0.1,
+    "body_brightness": 0.3,
+    "body_resonance": 0.8,
+    "pedalboard_enable_0": true,
+    "pedalboard_type_0": 0,
+    "pedalboard_param1_0": 0.6,
+    "pedalboard_param2_0": 0.5,
+    "pedalboard_enable_1": false,
+    "pedalboard_enable_2": false,
+    "pedalboard_enable_3": false,
+    "pedalboard_enable_4": false,
+    "pedalboard_enable_5": false,
+    "pedalboard_enable_6": true,
+    "pedalboard_type_6": 6,
+    "pedalboard_param1_6": 0.2,
+    "pedalboard_param2_6": 0.3,
+    "pedalboard_enable_7": false
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/nature/plugins/dsp/presets/String/33_Bass_Dub.json",
+    "conversionDate": "2026-01-21T18:46:43.039302",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}
